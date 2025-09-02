@@ -26,7 +26,7 @@ This project demonstrates how to deploy a Jenkins server on AWS EC2 with a priva
 
 ## 📂 Project Structure
 ```
-jenkins-project/
+aws-jenkins-ec2-s3-with-terraform/
 ├── main.tf
 ├── providers.tf
 ├── variables.tf
