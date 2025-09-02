@@ -38,8 +38,8 @@ aws-jenkins-ec2-s3-with-terraform/
 ## 🚀 Deployment Steps
 1. **Clone this repository:**
    ```bash
-   git clone <your-repo-url>
-   cd jenkins-project
+   git clone (https://github.com/KHard2Bme/aws-jenkins-ec2-s3-with-terraform.git)
+   cd aws-jenkins-ec2-s3-with-terraform
    ```
 
 2. **Initialize Terraform:**
