@@ -66,7 +66,7 @@ resource "aws_instance" "jenkins" {
 
   
   tags = {
-    Name = "Jenkins-Server"
+    Name = "Jenkins-Server-ec2"
   }
 
   root_block_device {
