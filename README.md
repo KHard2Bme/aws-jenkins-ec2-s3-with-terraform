@@ -67,8 +67,15 @@ jenkins-project/
 ---
 
 ## 📊 Outputs
-- **Jenkins EC2 Public IP** – 🌐 Use this to access the Jenkins dashboard.
-- **S3 Bucket Name** – 📦 The private bucket where build artifacts are stored.
+After successful deployment, Terraform will display the following outputs:
+
+Jenkins EC2 Public IP – 🌐 The public IP address of your Jenkins server.
+
+Jenkins Website URL – 🔗 The full URL to access Jenkins (e.g., http://<PUBLIC_IP>:8080).
+
+S3 Bucket Name – 📦 The private bucket where Jenkins stores build artifacts.
+
+Security Group ID – 🛡️ The ID of the security group applied to the Jenkins EC2 instance.
 
 ---
 
