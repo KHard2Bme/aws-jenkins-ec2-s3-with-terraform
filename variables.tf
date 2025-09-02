@@ -18,7 +18,3 @@ variable "allowed_ssh_ip" {
   default     = "0.0.0.0/0"
 }
 
-variable "user_data_file" {
-  description = "My jenkins Bootstrap file"
-  default     = "jenkins_bootstrap.sh"
-}
