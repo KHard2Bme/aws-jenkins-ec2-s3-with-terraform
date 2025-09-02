@@ -15,7 +15,7 @@ This project demonstrates how to deploy a Jenkins server on AWS EC2 with a priva
 ---
 
 ## 🛠️ Prerequisites
-- [Terraform](https://developer.hashicorp.com/terraform/downloads)
+- Terraform  installed (https://developer.hashicorp.com/terraform/downloads)
 - AWS CLI configured with proper credentials:  
   ```bash
   aws configure
